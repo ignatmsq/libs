@@ -1,3 +1,3 @@
 # libs
 RecyclerView
-  https://github.com/drakeet/MultiType
+https://github.com/drakeet/MultiType
