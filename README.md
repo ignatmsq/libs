@@ -1,4 +1,4 @@
 Libs
 ========
-UI
-- RecyclerView   https://github.com/drakeet/MultiType
+* UI
+  * RecyclerView   https://github.com/drakeet/MultiType
